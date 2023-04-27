@@ -22,7 +22,7 @@
 
 <svelte:head>
 	<title>GLFW Keys</title>
-	<meta name="description" content="A list of GLFW keys" />
+	<meta name="description" content="Interactive GLFW Key identifier" />
 </svelte:head>
 
 <style>
