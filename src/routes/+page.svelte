@@ -66,7 +66,7 @@
 		}
 
 		footer {
-			font-size: 0.2rem;
+			font-size: 0.5rem;
 		}
 	}
 </style>
